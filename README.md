@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meVish-09
+- 👋 Hi, I’m @meVish
 - 🌱 I’m currently learning Blockchain
 - 😄 Pronouns: She/Her
 
